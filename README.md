@@ -1,6 +1,6 @@
 # SMFA Delta Ceramics Printer Firmware (Marlin)
 
-This is a custom delta-style 3d printer firmware which is modified from Marlin. For more information, click here: https://marlinfw.org/
+This is the repository for two custom delta-style 3d printer firmwares which is modified from Marlin. For more information, click here: https://marlinfw.org/
 
 ## Usage
 1. With the latest Arduino IDE installed, navigate to the "Marlin" subfolder and open the file "marlin.ino".
